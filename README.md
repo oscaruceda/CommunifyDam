@@ -2,6 +2,10 @@
 
 Es una App que resuelve las necesidades de una comunidad de vecinos que comparten servicios y que se conectan entre ellos y con otras comunidades.
 Donde tu puedes realizar favores o pedir si pueden hacerte un favor.
+Para poder pedir favores o realizar tienes que unirte a una comunidad, accediendo con la contraseña de la comunidad. Puedes unirte a varias comunidades y crear tus anunicios.
+Los anuncios se diferencia por la categoria cuando crear el anuncio.
+
+Es una App muy intuitiva y de uso fácil.
 
 SPLASH APP 
 -----
