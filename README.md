@@ -1,5 +1,4 @@
-![title_black](https://user-images.githubusercontent.com/24654756/37291084-3470714e-260e-11e8-8aa1-9dd6ea544f5a.png)
-
+<img src="TITLE_BLACK.png">
 Es una App que resuelve las necesidades de una comunidad de vecinos que comparten servicios y que se conectan entre ellos y con otras comunidades.
 Donde tu puedes realizar favores o pedir si pueden hacerte un favor.
 Para poder pedir favores o realizar tienes que unirte a una comunidad, accediendo con la contraseña de la comunidad. Puedes unirte a varias comunidades y crear tus anunicios.
@@ -10,7 +9,7 @@ Es una App muy intuitiva y de uso fácil.
 SPLASH APP 
 -----
 
-![logo_splash](https://user-images.githubusercontent.com/24654756/37292899-38a5fdca-2612-11e8-8ab5-c9f0bd844b64.png)
+<img src="LOGO_SPLASH.png" width=400 height=600>
 
 
 
