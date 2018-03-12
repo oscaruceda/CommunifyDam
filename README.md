@@ -6,14 +6,14 @@ Los anuncios se diferencia por la categoria cuando crear el anuncio.
 
 Es una App muy intuitiva y de uso fácil.
 
-SPLASH APP 
+SPLASH APP & LAUNCHER
 -----
 
-<img src="LOGO_SPLASH.png" width=400 height=600>
+<img src="LOGO_SPLASH.png" width=400 height=600>        <img src="LAUNCHER.PNG" width=400 height=400>
 
 
 
-DOWNLOAD APP
+DOWNLOAD APP 
 -----
 
 Ir a play store y buscar `COMMUNIFY` o `http:play_store...`.
