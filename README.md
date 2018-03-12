@@ -4,6 +4,7 @@ Es una App que resuelve las necesidades de una comunidad de vecinos que comparte
 Donde tu puedes realizar favores o pedir si pueden hacerte un favor.
 
 SPLASH APP 
+-----
 
 ![logo_splash](https://user-images.githubusercontent.com/24654756/37292899-38a5fdca-2612-11e8-8ab5-c9f0bd844b64.png)
 
