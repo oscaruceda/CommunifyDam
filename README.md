@@ -11,7 +11,14 @@ SPLASH APP & LAUNCHER
 
 <img src="LOGO_SPLASH.png" width=400 height=600>        <img src="LAUNCHER.PNG" width=400 height=400>
 
-
+HOW TO USE 
+----
+<p>Primero accederemos al menu arriba en la parte superior izquierda</p>
+<img src="hamburger.jpeg" width=200>
+<p>Si queremos añadir una comunidad haremos click en "Crear Comunidad"</p>
+<img src="addcomunidad.jpeg" width=200>
+<p>Si queremos añadir una anuncio haremos click en "Crear Anuncio" o podremos pulsar al boton fab en el tablon principal</p>
+<img src="addcomunidad.jpeg" width=200>
 
 DOWNLOAD APP 
 -----
