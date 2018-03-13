@@ -19,7 +19,7 @@ HOW TO USE
 <img src="addcomunidad.jpeg" width=200>
 <p>Si queremos añadir una anuncio haremos click en "Crear Anuncio" o podremos pulsar al boton fab en el tablon principal</p>
 <img src="addcomunidad.jpeg" width=200>
-
+<p>Podremos unirnos tambien a una comunidad en "Unirse a Comunidad" donde introduciremos el pin de la comunidad en la que deseamos entrar</p>
 DOWNLOAD APP 
 -----
 
